@@ -1,0 +1,11 @@
+body {
+  overflow-x: hidden;
+}
+
+.card-img-top{
+ width: 310px;
+ height: 400px;
+ object-fit: contain;
+ align-items: center;
+ margin-left: 18px;
+}
